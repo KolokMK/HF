@@ -42,7 +42,7 @@ Az adatbáziban a következő entitásokat és attribútumokat tároljuk:
 * Csapat: név, közösség (például cserkészet, egyházközség), vezető neve, vezető telefonszáma
 * Táborozás: Csapat, táborhely, táborozás kezdete, táborozás vége, létszám
 
-![Kép](schema.png)
+![Kép](Schema.png)
 
 
 ## Elkészült házi feladat
